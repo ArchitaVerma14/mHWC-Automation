@@ -1,0 +1,5 @@
+2026-04-20 14:52:43,273 - INFO - Test execution started
+2026-04-20 14:52:43,798 - INFO - Setting up test: test_tc_782_verify_login_with_valid_credentials
+2026-04-20 14:53:15,408 - INFO - Tearing down test: test_tc_782_verify_login_with_valid_credentials
+2026-04-20 14:53:16,835 - INFO - Setting up test: test_tc_782_verify_login_failure_message
+2026-04-20 14:53:37,084 - INFO - Tearing down test: test_tc_782_verify_login_failure_message
