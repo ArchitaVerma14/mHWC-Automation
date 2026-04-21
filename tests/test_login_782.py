@@ -40,7 +40,7 @@ class TestLogin782:
         options.platform_name = "Android"
         options.device_name = "emulator-5554"
         options.automation_name = "UiAutomator2"
-        options.app = "C:/Users/Archita Verma/OneDrive - PIRAMAL SWASTHYA MANAGEMENT AND RESEARCH INSTITUTE/Desktop/APK files/AAM.apk"
+        options.app = r"C:\Users\Archita Verma\OneDrive - PIRAMAL SWASTHYA MANAGEMENT AND RESEARCH INSTITUTE\Desktop\APK files\AAM.apk"
         options.auto_grant_permissions = True
         options.no_reset = no_reset_value  # Smart value based on app installation
 

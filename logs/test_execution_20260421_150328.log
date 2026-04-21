@@ -1,0 +1,9 @@
+2026-04-21 15:03:28,223 - INFO - Test execution started
+2026-04-21 15:03:28,528 - INFO - Setting up test: test_registration_with_valid_data
+2026-04-21 15:03:28,639 - INFO - Setting up Appium driver...
+2026-04-21 15:03:35,291 - INFO - Appium driver initialized
+2026-04-21 15:03:35,293 - INFO - Starting registration test with data: {'first_name': 'John', 'last_name': 'Doe', 'gender': 'Male', 'age': '30', 'phone': '9876543210', 'village': 'ACHARAMPUR'}
+2026-04-21 15:03:37,295 - INFO - Clicking registration button
+2026-04-21 15:03:49,722 - INFO - Tearing down test: test_registration_with_valid_data
+2026-04-21 15:03:49,724 - INFO - Closing Appium driver...
+2026-04-21 15:03:50,242 - INFO - Appium driver closed

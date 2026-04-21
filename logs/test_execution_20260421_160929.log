@@ -1,0 +1,16 @@
+2026-04-21 16:09:29,744 - INFO - Test execution started
+2026-04-21 16:09:29,911 - INFO - Setting up test: test_registration_with_valid_data
+2026-04-21 16:09:29,987 - INFO - Setting up Appium driver...
+2026-04-21 16:09:34,625 - INFO - Appium driver initialized
+2026-04-21 16:09:34,627 - INFO - Starting registration test with data: {'first_name': 'John', 'last_name': 'Doe', 'gender': 'Male', 'date_of_birth': '14/04/1990', 'age': '30', 'phone': '9876543210', 'village': 'ADARSHA A'}
+2026-04-21 16:09:42,270 - INFO - Clicking registration button
+2026-04-21 16:09:48,547 - INFO - Clicking Proceed with Registration in dialog
+2026-04-21 16:09:59,772 - INFO - Registration page displayed
+2026-04-21 16:09:59,773 - INFO - Entering patient details
+2026-04-21 16:10:38,849 - INFO - Date of birth entered successfully; skipping age entry (auto-populated)
+2026-04-21 16:11:02,093 - INFO - All patient details entered
+2026-04-21 16:11:06,802 - INFO - Submitting registration form
+2026-04-21 16:11:23,157 - INFO - Test TC-787 passed - Registration successful
+2026-04-21 16:11:23,159 - INFO - Tearing down test: test_registration_with_valid_data
+2026-04-21 16:11:23,160 - INFO - Closing Appium driver...
+2026-04-21 16:11:23,602 - INFO - Appium driver closed

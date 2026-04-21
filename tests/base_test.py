@@ -17,7 +17,7 @@ class BaseTest:
     # Appium capabilities
     PLATFORM_NAME = "Android"
     DEVICE_NAME = "emulator-5554"
-    APP_PATH = "C:/Users/Archita Verma/OneDrive - PIRAMAL SWASTHYA MANAGEMENT AND RESEARCH INSTITUTE/Desktop/APK files/AAM.apk"
+    APP_PATH = r"C:\Users\Archita Verma\OneDrive - PIRAMAL SWASTHYA MANAGEMENT AND RESEARCH INSTITUTE\Desktop\APK files\AAM.apk"
     AUTOMATION_NAME = "UiAutomator2"
     APPIUM_SERVER_URL = "http://127.0.0.1:4723"
 

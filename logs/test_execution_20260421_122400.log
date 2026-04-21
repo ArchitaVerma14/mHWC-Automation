@@ -1,0 +1,5 @@
+2026-04-21 12:24:00,361 - INFO - Test execution started
+2026-04-21 12:24:00,651 - INFO - Setting up test: test_complete_beneficiary_registration_with_all_fields
+2026-04-21 12:24:11,512 - INFO - Tearing down test: test_complete_beneficiary_registration_with_all_fields
+2026-04-21 12:24:11,515 - INFO - Setting up test: test_mandatory_field_validation_on_registration
+2026-04-21 12:24:23,200 - INFO - Tearing down test: test_mandatory_field_validation_on_registration

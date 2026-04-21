@@ -1,0 +1,4 @@
+2026-04-20 20:46:44,583 - INFO - Test execution started
+2026-04-20 20:46:45,059 - INFO - Setting up test: test_click_base_image_and_proceed_with_registration
+2026-04-20 20:47:17,030 - INFO - Tearing down test: test_click_base_image_and_proceed_with_registration
+2026-04-20 20:47:18,058 - INFO - Setting up test: test_search_beneficiary_from_dialog
